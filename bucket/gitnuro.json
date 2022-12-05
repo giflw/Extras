@@ -10,6 +10,13 @@
         }
     },
     "extract_dir": "Gitnuro",
+    "bin": [
+        "Gitnuro.exe",
+        [
+            "Gitnuro.exe",
+            "gitnuro"
+        ]
+    ],
     "shortcuts": [
         [
             "Gitnuro.exe",
